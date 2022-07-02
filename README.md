@@ -1,5 +1,5 @@
 # RestaurantMenu
-JavaScript get items from JSON
+JavaScript gets items from JSON
 
 ## <a href='https://sinansarikaya.github.io/RestaurantMenu/'>Click here for demo</a>
 
