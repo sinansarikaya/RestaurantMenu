@@ -1,14 +1,12 @@
 * {
   box-sizing: border-box;
 }
-
 body {
   margin: 0;
   padding: 0;
   background-color: #f1f5f8;
   font-family: "Zilla Slab", serif;
 }
-
 h2 {
   font-family: "Great Vibes", cursive;
   font-size: 3rem;
@@ -18,7 +16,6 @@ h2 {
 .menu {
   margin-top: 20px;
 }
-
 .btn-container {
   display: flex;
   justify-content: center;
@@ -49,11 +46,9 @@ h2 {
   justify-content: space-between;
   border-bottom: 1px solid black;
 }
-
 h4 {
   color: #e00a00;
 }
-
 .menu-text {
   padding-top: 20px;
 }
